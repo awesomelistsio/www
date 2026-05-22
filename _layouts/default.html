@@ -15,35 +15,22 @@
 
 <body>
 
-<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-
-<header class="mdl-layout__header site-header">
-<div class="mdl-layout__header-row nav-shell">
-
-<a class="brand" href="{{ '/' | relative_url }}">
-<div class="brand-icon">A</div>
-<div class="brand-text">Awesome Lists</div>
-</a>
-
-<div class="mdl-layout-spacer"></div>
-
-<nav class="mdl-navigation top-nav">
-<a class="mdl-navigation__link" href="{{ '/' | relative_url }}#featured">Featured</a>
-<a class="mdl-navigation__link" href="{{ '/' | relative_url }}#categories">Categories</a>
-<a class="mdl-navigation__link" href="{{ '/' | relative_url }}#lists">Lists</a>
-<a class="mdl-navigation__link" href="{{ '/blog/' | relative_url }}">Blog</a>
-
-<a class="repo-button"
-href="https://github.com/brandonhimpfen/awesome-lists"
-target="_blank">
-<i class="material-icons">code</i>
-Primary Repo
-</a>
-
-</nav>
-
-</div>
-</header>
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header"></div>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Awesome Lists home">
+        <img src="logo.svg" alt="">
+        <span>Awesome Lists</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}#featured">Featured</a>
+        <a href="{{ '/' | relative_url }}#categories">Categories</a>
+        <a href="{{ '/' | relative_url }}#lists">Lists</a>
+        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        <a class="repo-button" href="https://github.com/brandonhimpfen/awesome-lists" target="_blank" rel="noopener"><span class="material-symbols-rounded">code</span> Primary repo</a>
+      </nav>
+    </div>
+  </header>
 
 <main class="mdl-layout__content">
 {{ content }}
