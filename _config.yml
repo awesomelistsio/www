@@ -1,7 +1,7 @@
 title: Awesome Lists
 description: Curated Awesome Lists across AI, programming, security, sustainability, and emerging technologies.
 baseurl: ""
-url: "https://www.awesomelists.io"
+url: "https://awesomelists.io"
 
 markdown: kramdown
 permalink: /blog/:title/
