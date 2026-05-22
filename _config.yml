@@ -2,6 +2,7 @@ title: Awesome Lists
 description: Curated Awesome Lists across AI, programming, security, sustainability, and emerging technologies.
 baseurl: ""
 url: "https://awesomelists.io"
+timezone: America/Toronto
 
 markdown: kramdown
 permalink: /:title/
@@ -13,3 +14,10 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+twitter:
+  username: ListsAwesome
+  card: summary_large_image
+
+logo: /logo.svg
