@@ -1,24 +1,10 @@
 ---
-layout: default
+layout: post
 title: "What Makes an Awesome List Actually Useful"
 description: "A framework for evaluating curated awesome lists: scope, structure, standards, maintenance, and context. What separates signal from noise in open-source discovery."
 date: 2026-02-12 09:00:00 -0500
 tags: [Curation, Open Source, Standards]
 ---
-
-<section class="hero">
-<div class="hero-inner">
-<div>
-<div class="hero-pill">Blog Post</div>
-<h1>What Makes an Awesome List Actually Useful</h1>
-<p>A framework for evaluating curated awesome lists: scope, structure, standards, maintenance, and context. What separates signal from noise in open-source discovery.</p>
-</div>
-</div>
-</section>
-
-<div class="page-shell">
-
-<section class="panel">
 
 There are thousands of “awesome lists” on GitHub.
 
@@ -225,7 +211,3 @@ Search gives you everything.
 A useful awesome list gives you structure.
 
 That difference is what makes it valuable.
-
-</section>
-
-</div>

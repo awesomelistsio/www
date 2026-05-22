@@ -1,24 +1,10 @@
 ---
-layout: default
+layout: post
 title: "Welcome to the Awesome Lists Blog"
 description: "Why we added a blog, what it covers, and how it improves discovery across curated awesome lists, categories, and open-source resources."
 date: 2026-01-31 09:00:00 -0500
 tags: [Updates, Meta]
 ---
-
-<section class="hero">
-<div class="hero-inner">
-<div>
-<div class="hero-pill">Blog Post</div>
-<h1>Welcome to the Awesome Lists Blog</h1>
-<p>Why we added a blog, what it covers, and how it improves discovery across curated awesome lists, categories, and open-source resources.</p>
-</div>
-</div>
-</section>
-
-<div class="page-shell">
-
-<section class="panel">
 
 Awesome Lists exists for one reason: **better discovery**.
 
@@ -78,7 +64,3 @@ And third, it strengthens the project’s long-term goal: building a curated, na
 Thanks for being here.
 
 If you have suggestions, categories you want to see, or strong resources that belong in the collection, keep an eye out for contribution guidance posts. This site will stay community-friendly, but it will remain selective, because curation only works when standards are consistent.
-
-</section>
-
-</div>
