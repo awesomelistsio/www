@@ -48,7 +48,9 @@ Thoughts, updates, and curated insights related to Awesome Lists, open knowledge
 
 <a class="open-link" href="{{ post.url | relative_url }}">
 Read
-<i class="material-icons">arrow_forward</i>
+<span class="material-symbols-rounded">
+arrow_forward
+</span>
 </a>
 </div>
 </article>
