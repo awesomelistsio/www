@@ -1,0 +1,4845 @@
+{
+  "site": {
+    "title": "Awesome Lists",
+    "primaryRepo": "https://github.com/brandonhimpfen/awesome-lists",
+    "primaryColor": "#49c0b6"
+  },
+  "categories": [
+    {
+      "name": "Agriculture Tech (AgTech)",
+      "count": 5,
+      "icon": "agriculture"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "count": 36,
+      "icon": "psychology"
+    },
+    {
+      "name": "Blogging",
+      "count": 7,
+      "icon": "edit_note"
+    },
+    {
+      "name": "Business & Economics",
+      "count": 5,
+      "icon": "monitoring"
+    },
+    {
+      "name": "Cloud Platforms",
+      "count": 7,
+      "icon": "cloud"
+    },
+    {
+      "name": "Code Editors",
+      "count": 1,
+      "icon": "code"
+    },
+    {
+      "name": "Creator Support Platforms",
+      "count": 3,
+      "icon": "favorite"
+    },
+    {
+      "name": "Cryptocurrency",
+      "count": 16,
+      "icon": "currency_bitcoin"
+    },
+    {
+      "name": "Data & Analytics",
+      "count": 5,
+      "icon": "analytics"
+    },
+    {
+      "name": "Databases",
+      "count": 9,
+      "icon": "database"
+    },
+    {
+      "name": "Decentralized Systems",
+      "count": 11,
+      "icon": "hub"
+    },
+    {
+      "name": "Design & UX",
+      "count": 5,
+      "icon": "design_services"
+    },
+    {
+      "name": "DevOps and CI/CD",
+      "count": 12,
+      "icon": "settings_suggest"
+    },
+    {
+      "name": "Digital Marketing",
+      "count": 4,
+      "icon": "campaign"
+    },
+    {
+      "name": "Education Technology (EdTech)",
+      "count": 4,
+      "icon": "school"
+    },
+    {
+      "name": "Emerging Tech: Drones & IoT",
+      "count": 19,
+      "icon": "flight_takeoff"
+    },
+    {
+      "name": "Engineering",
+      "count": 8,
+      "icon": "precision_manufacturing"
+    },
+    {
+      "name": "Frameworks",
+      "count": 14,
+      "icon": "deployed_code"
+    },
+    {
+      "name": "Gaming Development",
+      "count": 1,
+      "icon": "sports_esports"
+    },
+    {
+      "name": "Health & Digital Health",
+      "count": 4,
+      "icon": "health_and_safety"
+    },
+    {
+      "name": "Logistics & Supply Chain",
+      "count": 5,
+      "icon": "local_shipping"
+    },
+    {
+      "name": "Mathematics",
+      "count": 3,
+      "icon": "functions"
+    },
+    {
+      "name": "Media",
+      "count": 3,
+      "icon": "perm_media"
+    },
+    {
+      "name": "Mobile Development",
+      "count": 5,
+      "icon": "smartphone"
+    },
+    {
+      "name": "Platforms",
+      "count": 7,
+      "icon": "apps"
+    },
+    {
+      "name": "Politics & Society",
+      "count": 13,
+      "icon": "account_balance"
+    },
+    {
+      "name": "Privacy, Security & Intelligence",
+      "count": 5,
+      "icon": "shield"
+    },
+    {
+      "name": "Programming Languages",
+      "count": 27,
+      "icon": "terminal"
+    },
+    {
+      "name": "Quantum Computing",
+      "count": 2,
+      "icon": "blur_on"
+    },
+    {
+      "name": "Science",
+      "count": 5,
+      "icon": "science"
+    },
+    {
+      "name": "Smart Cities & Urban Tech",
+      "count": 2,
+      "icon": "location_city"
+    },
+    {
+      "name": "Social & Creator Platforms",
+      "count": 11,
+      "icon": "groups"
+    },
+    {
+      "name": "Software Development",
+      "count": 1,
+      "icon": "integration_instructions"
+    },
+    {
+      "name": "Space Technology",
+      "count": 1,
+      "icon": "rocket_launch"
+    },
+    {
+      "name": "Sustainability and Green Tech",
+      "count": 4,
+      "icon": "eco"
+    },
+    {
+      "name": "Technology Giants",
+      "count": 3,
+      "icon": "domain"
+    },
+    {
+      "name": "Web Optimization",
+      "count": 3,
+      "icon": "speed"
+    }
+  ],
+  "lists": [
+    {
+      "title": "Awesome Aerospace Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-aerospace-engineering",
+      "description": "A curated list of tools, frameworks, resources, and educational content for aerospace engineering.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Agricultural Data & Analytics",
+      "url": "https://github.com/brandonhimpfen/awesome-agricultural-data-analytics",
+      "description": "Platforms for analyzing crop, soil, and weather data.",
+      "category": "Agriculture Tech (AgTech)",
+      "icon": "agriculture",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Agricultural Drones",
+      "url": "https://github.com/brandonhimpfen/awesome-agricultural-drones",
+      "description": "Tools and use cases for drones in agriculture.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Agricultural Robotics",
+      "url": "https://github.com/brandonhimpfen/awesome-agricultural-robotics",
+      "description": "Robots and automation systems for farming tasks.",
+      "category": "Agriculture Tech (AgTech)",
+      "icon": "agriculture",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome AgTech",
+      "url": "https://github.com/brandonhimpfen/awesome-agtech",
+      "description": "Platforms and tools for modern agriculture systems.",
+      "category": "Agriculture Tech (AgTech)",
+      "icon": "agriculture",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome AI",
+      "url": "https://github.com/brandonhimpfen/awesome-ai",
+      "description": "A general list of resources, libraries, and tools for artificial intelligence.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Agents",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-agents",
+      "description": "A curated list of frameworks, tools, platforms, and resources for building AI agents \u2014 autonomous or semi-autonomous systems with planning, memory, tool use, and multi-step reasoning.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Art",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-art",
+      "description": "A curated list of tools, platforms, datasets, and resources for creating, exploring, and understanding AI-generated art.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Benchmarks & Evaluation",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-benchmarks-evaluation",
+      "description": "Evaluation tools, benchmark datasets, leaderboards, frameworks, and resources for assessing model performance across reasoning, safety, robustness, multimodality, RAG, LLMs, and traditional ML tasks.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Coding Agents",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-coding-agents",
+      "description": "A curated list of frameworks, tools, platforms, and resources for AI coding agents.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Content Pipelines",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-content-pipelines",
+      "description": "A curated list of tools, frameworks, workflows, and resources for building AI-powered content pipelines.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Ethics",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-ethics",
+      "description": "Resources and discussions on the ethical implications of AI, including bias, fairness, and transparency.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI for Edge Computing",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-edge-computing",
+      "description": "Tools and frameworks for running AI models on edge devices and IoT.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI in Healthcare",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-healthcare",
+      "description": "A curated list of tools, frameworks, applications, datasets, and resources for AI in healthcare.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Infrastructure",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-infrastructure",
+      "description": "Resources for building scalable AI infrastructure, including distributed training, MLOps, and model deployment.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": true,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Featured"
+      ]
+    },
+    {
+      "title": "Awesome AI Memory Systems",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-memory-systems",
+      "description": "A curated list of tools, frameworks, and resources for AI memory systems.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Native Applications",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-native-applications",
+      "description": "A curated list of AI-native applications. Products and systems built with AI at their core.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Research Papers",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-research-papers",
+      "description": "A curated list of influential AI research papers and academic resources.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Research Tools",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-research-tools",
+      "description": "Tools, platforms, libraries, and resources to support AI and ML research \u2014 experimentation, literature search, dataset exploration, evaluation, visualization, and reproducibility.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Safety & Alignment",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-safety-alignment",
+      "description": "Research, frameworks, tools, evaluations, and resources focused on AI alignment, safety, robustness, governance, and responsible development.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AI Security",
+      "url": "https://github.com/brandonhimpfen/awesome-ai-security",
+      "description": "Tools, frameworks, benchmarks, research, and resources focused on adversarial attacks, robustness, data poisoning, red teaming, model extraction, jailbreak defense, secure inference, and privacy-preserving AI.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "cybersecurity",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "osint",
+        "privacy",
+        "rag",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Altcoins",
+      "url": "https://github.com/brandonhimpfen/awesome-altcoins",
+      "description": "A collection of resources, tools, and information for alternative cryptocurrencies beyond Bitcoin and Ethereum.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Amazon",
+      "url": "https://github.com/brandonhimpfen/awesome-amazon",
+      "description": "A curated list of tools, APIs, extensions, guides, and platforms related to Amazon and its ecosystem.",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Android Development",
+      "url": "https://github.com/brandonhimpfen/awesome-android-development",
+      "description": "A curated list of tools, frameworks, libraries, and resources for Android development.",
+      "category": "Mobile Development",
+      "icon": "smartphone",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Angular",
+      "url": "https://github.com/brandonhimpfen/awesome-angular",
+      "description": "A curated list of libraries and resources for Angular.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome APIs",
+      "url": "https://github.com/brandonhimpfen/awesome-apis",
+      "description": "A curated list of high-quality APIs, SDKs, and developer tools.",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Audio Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-audio-engineering",
+      "description": "A curated list of tools, workflows, and learning resources for audio engineering.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Audiovisual",
+      "url": "https://github.com/brandonhimpfen/awesome-audiovisual",
+      "description": "A curated list of awesome tools, libraries, frameworks, and resources for working with audiovisual content, including video editing, audio processing, streaming, and multimedia applications.",
+      "category": "Media",
+      "icon": "perm_media",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome AutoML",
+      "url": "https://github.com/brandonhimpfen/awesome-automl",
+      "description": "A curated list of frameworks, platforms, tools, research, and learning resources for Automated Machine Learning (AutoML).",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome AWS",
+      "url": "https://github.com/brandonhimpfen/awesome-aws",
+      "description": "A curated list of awesome tools, guides, open-source libraries, and educational resources for Amazon Web Services (AWS).",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Azure",
+      "url": "https://github.com/brandonhimpfen/awesome-azure",
+      "description": "A curated list of awesome tools, resources, libraries, learning materials, and services related to Microsoft Azure.",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Big Data",
+      "url": "https://github.com/brandonhimpfen/awesome-big-data",
+      "description": "A curated list of frameworks, platforms, and tools for big data systems.",
+      "category": "Data & Analytics",
+      "icon": "analytics",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Bioinformatics",
+      "url": "https://github.com/brandonhimpfen/awesome-bioinformatics",
+      "description": "Tools and datasets for biological and genomic data analysis.",
+      "category": "Health & Digital Health",
+      "icon": "health_and_safety",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Bitcoin",
+      "url": "https://github.com/brandonhimpfen/awesome-bitcoin",
+      "description": "A curated list of tools, libraries, and resources for Bitcoin, the first and most widely used cryptocurrency.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Blockchain",
+      "url": "https://github.com/brandonhimpfen/awesome-blockchain/tree/main",
+      "description": "A curated list of platforms, protocols, tools, frameworks, and learning resources for blockchain technology.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Blockchain Protocols",
+      "url": "https://github.com/brandonhimpfen/awesome-blockchain-protocols",
+      "description": "A list of various blockchain protocols and frameworks, including Layer 1 and Layer 2 solutions.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Blogging",
+      "url": "https://github.com/brandonhimpfen/awesome-blogging",
+      "description": "A curated list of awesome tools, resources, platforms, and tips for bloggers of all levels.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Blogging Monetization",
+      "url": "https://github.com/brandonhimpfen/awesome-blogging-monetization",
+      "description": "A curated list of tools, platforms, strategies, and resources for blog monetization.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Business Intelligence",
+      "url": "https://github.com/brandonhimpfen/awesome-business-intelligence",
+      "description": "A curated list of tools and learning resources for Business Intelligence.",
+      "category": "Data & Analytics",
+      "icon": "analytics",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Buy Me a Coffee",
+      "url": "https://github.com/brandonhimpfen/awesome-buymeacoffee",
+      "description": "A curated list of tools, resources, guides, and integrations for creators using Buy Me a Coffee.",
+      "category": "Creator Support Platforms",
+      "icon": "favorite",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome C",
+      "url": "https://github.com/brandonhimpfen/awesome-c",
+      "description": "A curated list of C libraries, tools, and learning resources.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Carbon Accounting & Offsets",
+      "url": "https://github.com/brandonhimpfen/awesome-carbon-accounting-offsets",
+      "description": "A curated list of tools, frameworks, datasets, standards, platforms, and projects for carbon accounting, carbon offsetting, and sustainability tracking.",
+      "category": "Sustainability and Green Tech",
+      "icon": "eco",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "carbon",
+        "climate",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "green tech",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag",
+        "sustainability"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Cassandra",
+      "url": "https://github.com/brandonhimpfen/awesome-cassandra",
+      "description": "A curated list of awesome libraries, tools, frameworks, and resources for Apache Cassandra, a highly scalable, distributed NoSQL database designed for handling large amounts of data across many commodity servers.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome ChatGPT",
+      "url": "https://github.com/brandonhimpfen/awesome-chatgpt",
+      "description": "A curated list of tools, extensions, prompts, projects, and resources for ChatGPT and the OpenAI ecosystem.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome ChatGPT Prompts",
+      "url": "https://github.com/brandonhimpfen/awesome-chatgpt-prompts",
+      "description": "A curated list of high-quality ChatGPT prompts for productivity, creativity, learning, development, and fun.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Chemistry",
+      "url": "https://github.com/brandonhimpfen/awesome-chemistry",
+      "description": "A curated list of resources for chemistry and materials science.",
+      "category": "Science",
+      "icon": "science",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome CI",
+      "url": "https://github.com/brandonhimpfen/awesome-ci",
+      "description": "A curated list of awesome Continuous Integration (CI) tools, services, workflows, and resources.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome CI/CD",
+      "url": "https://github.com/brandonhimpfen/awesome-cicd",
+      "description": "A curated list of tools and practices for Continuous Integration and Delivery.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Civic Tech",
+      "url": "https://github.com/brandonhimpfen/awesome-civic-tech",
+      "description": "Curated list of open source projects, platforms, communities, and tools advancing civic engagement and public service through technology.",
+      "category": "Smart Cities & Urban Tech",
+      "icon": "location_city",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Civil Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-civil-engineering",
+      "description": "A curated list of tools, frameworks, resources, and educational content for civil engineering.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Classroom Technology",
+      "url": "https://github.com/brandonhimpfen/awesome-classroom-technology",
+      "description": "Tools for in-person and hybrid learning environments.",
+      "category": "Education Technology (EdTech)",
+      "icon": "school",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Climate Change",
+      "url": "https://github.com/brandonhimpfen/awesome-climate-change",
+      "description": "Curated resources, projects, data, and tools to understand and address climate change.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "carbon",
+        "climate",
+        "dataset",
+        "datasets",
+        "green tech",
+        "open data",
+        "sustainability"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Climate Tech",
+      "url": "https://github.com/brandonhimpfen/awesome-climate-tech",
+      "description": "A curated list of high-quality resources, startups, tools, and frameworks driving innovation in climate technology.",
+      "category": "Sustainability and Green Tech",
+      "icon": "eco",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "carbon",
+        "climate",
+        "generative ai",
+        "green tech",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag",
+        "sustainability"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Cloud",
+      "url": "https://github.com/brandonhimpfen/awesome-cloud",
+      "description": "A curated list of cloud platforms, tools, SDKs, infrastructure services, and learning resources.",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Cloud Native",
+      "url": "https://github.com/brandonhimpfen/awesome-cloud-native",
+      "description": "Tools and frameworks for cloud-native development.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome CMS",
+      "url": "https://github.com/brandonhimpfen/awesome-cms",
+      "description": "A curated list of awesome content management systems (CMS), libraries, tools, platforms, and resources.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome CodePen",
+      "url": "https://github.com/brandonhimpfen/awesome-codepen",
+      "description": "A curated list of awesome CodePen demos, collections, resources, and inspiration for front-end developers and designers.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Cold Chain Logistics",
+      "url": "https://github.com/brandonhimpfen/awesome-cold-chain-logistics",
+      "description": "Systems for temperature-sensitive goods and transport.",
+      "category": "Logistics & Supply Chain",
+      "icon": "local_shipping",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome ColdFusion",
+      "url": "https://github.com/brandonhimpfen/awesome-coldfusion",
+      "description": "A curated list of awesome ColdFusion resources and tips for developers.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Computational Biology",
+      "url": "https://github.com/brandonhimpfen/awesome-computational-biology",
+      "description": "A curated list of tools, libraries, datasets, and platforms for computational biology.",
+      "category": "Health & Digital Health",
+      "icon": "health_and_safety",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Computational Linguistics",
+      "url": "https://github.com/brandonhimpfen/awesome-computational-linguistics",
+      "description": "A curated list of resources, tools, datasets, papers, and libraries for computational linguistics and NLP.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Computational Mathematics",
+      "url": "https://github.com/brandonhimpfen/awesome-computational-mathematics",
+      "description": "A curated list of tools, frameworks, libraries, and educational resources for computational mathematics.",
+      "category": "Mathematics",
+      "icon": "functions",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Computer Vision",
+      "url": "https://github.com/brandonhimpfen/awesome-computer-vision",
+      "description": "A list of resources for computer vision, including libraries, frameworks, and datasets.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Consensus Algorithms",
+      "url": "https://github.com/brandonhimpfen/awesome-consensus-algorithms",
+      "description": "A comprehensive list of consensus mechanisms and protocols used in decentralized systems (e.g., Proof of Work, Proof of Stake, Raft, Paxos).",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Content Marketing",
+      "url": "https://github.com/brandonhimpfen/awesome-content-marketing",
+      "description": "A curated list of tools, platforms, strategies, and resources for content marketing.",
+      "category": "Digital Marketing",
+      "icon": "campaign",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome CouchDB",
+      "url": "https://github.com/brandonhimpfen/awesome-couchdb",
+      "description": "A curated list of awesome libraries, tools, frameworks, and resources for CouchDB, an open-source NoSQL database known for its ease of use, scalability, and master-master replication.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Crypto Compliance",
+      "url": "https://github.com/brandonhimpfen/awesome-crypto-compliance",
+      "description": "A curated list of awesome tools, platforms, frameworks, and resources for regulatory compliance.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Crypto Exchanges",
+      "url": "https://github.com/brandonhimpfen/awesome-crypto-exchanges",
+      "description": "A list of centralized and decentralized cryptocurrency exchanges, including trading tools and analytics.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Crypto Mining",
+      "url": "https://github.com/brandonhimpfen/awesome-crypto-mining",
+      "description": "A collection of resources for cryptocurrency mining, including software, hardware, and mining pools.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Crypto Wallets",
+      "url": "https://github.com/brandonhimpfen/awesome-crypto-wallets",
+      "description": "A curated list of secure and popular cryptocurrency wallets for storing digital assets.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Cryptocurrency",
+      "url": "https://github.com/brandonhimpfen/awesome-cryptocurrency",
+      "description": "A general list of cryptocurrency resources, including exchanges, wallets, and analytics tools.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome CSS",
+      "url": "https://github.com/brandonhimpfen/awesome-css",
+      "description": "A curated list of awesome CSS frameworks, libraries, tools, resources, and inspiration.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Cybersecurity",
+      "url": "https://github.com/brandonhimpfen/awesome-cybersecurity",
+      "description": "Cybersecurity frameworks and tools.",
+      "category": "Privacy, Security & Intelligence",
+      "icon": "shield",
+      "featured": true,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Featured"
+      ]
+    },
+    {
+      "title": "Awesome Data Analytics",
+      "url": "https://github.com/brandonhimpfen/awesome-data-analytics",
+      "description": "A curated list of tools, platforms, and frameworks for data analytics.",
+      "category": "Data & Analytics",
+      "icon": "analytics",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Data Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-data-engineering",
+      "description": "A curated list of tools, platforms, and learning resources for data engineering.",
+      "category": "Data & Analytics",
+      "icon": "analytics",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Data Science",
+      "url": "https://github.com/brandonhimpfen/awesome-data-science",
+      "description": "A curated list of tools, datasets, workflows, and learning resources for data science.",
+      "category": "Data & Analytics",
+      "icon": "analytics",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Decentralized Autonomous Organizations (DAOs)",
+      "url": "https://github.com/brandonhimpfen/awesome-daos",
+      "description": "A collection of resources for building and participating in decentralized autonomous organizations.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Decentralized Finance (DeFi)",
+      "url": "https://github.com/brandonhimpfen/awesome-defi",
+      "description": "Resources and tools for building and understanding decentralized finance applications.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Decentralized Identity (DID)",
+      "url": "https://github.com/brandonhimpfen/awesome-decentralized-identity",
+      "description": "A list of tools, protocols, and libraries for decentralized identity systems and self-sovereign identity (SSI).",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Decentralized Systems",
+      "url": "https://github.com/brandonhimpfen/awesome-decentralized-systems",
+      "description": "A curated list of tools, protocols, and resources for building decentralized applications and services.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Deep Learning",
+      "url": "https://github.com/brandonhimpfen/awesome-deep-learning",
+      "description": "A curated collection of resources and frameworks for deep learning and neural networks.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome DeFi",
+      "url": "https://github.com/brandonhimpfen/awesome-defi",
+      "description": "A list of tools, platforms, and resources for the decentralized finance ecosystem.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Design",
+      "url": "https://github.com/brandonhimpfen/awesome-design",
+      "description": "A curated list of awesome resources, tools, frameworks, and communities for all things design\u2014UI, UX, product, interaction, and beyond.",
+      "category": "Design & UX",
+      "icon": "design_services",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome DevOps",
+      "url": "https://github.com/brandonhimpfen/awesome-devops",
+      "description": "A curated list of awesome tools, resources, and best practices in DevOps.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Digital Health",
+      "url": "https://github.com/brandonhimpfen/awesome-digital-health",
+      "description": "Platforms, tools, and systems for modern healthcare delivery and infrastructure.",
+      "category": "Health & Digital Health",
+      "icon": "health_and_safety",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Digital Rights",
+      "url": "https://github.com/brandonhimpfen/awesome-digital-rights",
+      "description": "A curated list of resources, organizations, tools, and readings focused on digital rights, freedom of expression, privacy, access to information, and internet governance.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome DigitalOcean",
+      "url": "https://github.com/brandonhimpfen/awesome-digitalocean",
+      "description": "A curated list of tools, services, tutorials, and integrations for DigitalOcean.",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Distributed Databases",
+      "url": "https://github.com/brandonhimpfen/awesome-distributed-databases",
+      "description": "A collection of distributed database technologies and tools, including consensus protocols and replication strategies.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Django",
+      "url": "https://github.com/brandonhimpfen/awesome-django",
+      "description": "A curated list of packages and resources for Django.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Docker",
+      "url": "https://github.com/brandonhimpfen/awesome-docker",
+      "description": "A curated list of Docker tools, images, workflows, and learning resources.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Dribbble",
+      "url": "https://github.com/brandonhimpfen/awesome-dribbble",
+      "description": "A curated list of awesome tools, tips, profiles, and resources for designers using Dribbble.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Drone Engineers",
+      "url": "https://github.com/brandonhimpfen/awesome-drone-engineers",
+      "description": "A curated list of resources, tools, and communities for drone engineers.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Drone Laws by Country",
+      "url": "https://github.com/brandonhimpfen/awesome-drone-laws-by-country",
+      "description": "A curated list of resources, databases, and official sources on drone laws, regulations, and UAV/UAS policies around the world.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "autonomy",
+        "dataset",
+        "datasets",
+        "drone",
+        "drones",
+        "flight",
+        "open data",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Drone Photography & Cinematography",
+      "url": "https://github.com/brandonhimpfen/awesome-drone-photography-cinematography",
+      "description": "A curated list of tools, techniques, and workflows for drone photography and cinematography.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome E-Government",
+      "url": "https://github.com/brandonhimpfen/awesome-e-government",
+      "description": "A curated list of tools, platforms, policies, and projects that enable digital transformation in public services and governance.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Economics",
+      "url": "https://github.com/brandonhimpfen/awesome-economics",
+      "description": "A curated list of datasets, tools, models, institutions, and learning resources for economics.",
+      "category": "Business & Economics",
+      "icon": "monitoring",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Edge Computing",
+      "url": "https://github.com/brandonhimpfen/awesome-edge-computing",
+      "description": "Tools and research for edge devices.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome EdTech",
+      "url": "https://github.com/brandonhimpfen/awesome-edtech",
+      "description": "Platforms and tools for digital learning and education systems.",
+      "category": "Education Technology (EdTech)",
+      "icon": "school",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Electron",
+      "url": "https://github.com/brandonhimpfen/awesome-electron",
+      "description": "A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Elon Musk",
+      "url": "https://github.com/brandonhimpfen/awesome-elon-musk",
+      "description": "A curated list of resources, projects, interviews, documentaries, articles, and communities related to Elon Musk.",
+      "category": "Technology Giants",
+      "icon": "domain",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Email Marketing",
+      "url": "https://github.com/brandonhimpfen/awesome-email-marketing",
+      "description": "A curated list of tools, platforms, strategies, and resources for email marketing.",
+      "category": "Digital Marketing",
+      "icon": "campaign",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Environmental Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-environmental-engineering",
+      "description": "A curated list of tools, frameworks, resources, and educational content for environmental engineering.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Erlang",
+      "url": "https://github.com/brandonhimpfen/awesome-erlang",
+      "description": "A curated list of awesome frameworks, libraries, tools, and resources for Erlang programming.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Ethereum",
+      "url": "https://github.com/brandonhimpfen/awesome-ethereum",
+      "description": "A comprehensive list of resources, tools, and development frameworks for Ethereum.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Facebook",
+      "url": "https://github.com/brandonhimpfen/awesome-facebook",
+      "description": "A curated list of high-quality tools, libraries, resources, and guides for working with Facebook.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome FFmpeg",
+      "url": "https://github.com/brandonhimpfen/awesome-ffmpeg",
+      "description": "A curated list of awesome tools, libraries, guides, and resources for FFmpeg, a complete, cross-platform solution to record, convert, and stream audio and video.",
+      "category": "Media",
+      "icon": "perm_media",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Figma",
+      "url": "https://github.com/brandonhimpfen/awesome-figma",
+      "description": "A curated list of awesome Figma plugins, tools, templates, resources, and community links to boost your design workflow.",
+      "category": "Design & UX",
+      "icon": "design_services",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Finance",
+      "url": "https://github.com/brandonhimpfen/awesome-finance",
+      "description": "A curated list of tools, platforms, datasets, libraries, and learning materials for finance.",
+      "category": "Business & Economics",
+      "icon": "monitoring",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome FinTech",
+      "url": "https://github.com/brandonhimpfen/awesome-fintech",
+      "description": "A curated list of platforms, APIs, tools, frameworks, standards, and learning resources for Financial Technology.",
+      "category": "Business & Economics",
+      "icon": "monitoring",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Flask",
+      "url": "https://github.com/brandonhimpfen/awesome-flask",
+      "description": "A curated list of tools and extensions for the Flask web framework.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Flight Controller Software",
+      "url": "https://github.com/brandonhimpfen/awesome-flight-controller-software",
+      "description": "High-quality flight control software for UAVs.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Flight Log Analysis",
+      "url": "https://github.com/brandonhimpfen/awesome-flight-log-analysis",
+      "description": "Tools to analyze UAV and aircraft flight logs.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Fortran",
+      "url": "https://github.com/brandonhimpfen/awesome-fortran",
+      "description": "A curated list of tools and libraries for Fortran.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome G7",
+      "url": "https://github.com/brandonhimpfen/awesome-g7",
+      "description": "A curated list of resources, reports, and analysis related to the G7 (Group of Seven) nations and their policies.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Game Engines",
+      "url": "https://github.com/brandonhimpfen/awesome-game-engines",
+      "description": "A curated list of game engines, frameworks, tools, and resources for game development.",
+      "category": "Gaming Development",
+      "icon": "sports_esports",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Generative AI",
+      "url": "https://github.com/brandonhimpfen/awesome-generative-ai",
+      "description": "Tools, models, datasets, papers, and resources related to generative artificial intelligence.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Geoengineering",
+      "url": "https://github.com/brandonhimpfen/awesome-geoengineering",
+      "description": "A curated list of projects, research, organizations, tools, and resources related to geoengineering.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Ghost",
+      "url": "https://github.com/brandonhimpfen/awesome-ghost",
+      "description": "A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome GitHub",
+      "url": "https://github.com/brandonhimpfen/awesome-github",
+      "description": "A curated list of high-quality tools, resources, libraries, and guides for working with GitHub.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome GitHub Actions",
+      "url": "https://github.com/brandonhimpfen/awesome-github-actions",
+      "description": "A curated list of high-quality resources, actions, tools, and workflows for GitHub Actions.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome GitHub Pages",
+      "url": "https://github.com/brandonhimpfen/awesome-github-pages",
+      "description": "A curated list of awesome resources, tools, templates, and tips for using GitHub Pages.",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome GitLab",
+      "url": "https://github.com/brandonhimpfen/awesome-gitlab",
+      "description": "A curated list of tools and workflows for GitLab and DevSecOps.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Global Development",
+      "url": "https://github.com/brandonhimpfen/awesome-global-development",
+      "description": "A curated list of high-quality resources, organizations, data platforms, and tools related to international development, humanitarian work, poverty alleviation, and global equity.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Go",
+      "url": "https://github.com/brandonhimpfen/awesome-go",
+      "description": "A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Google",
+      "url": "https://github.com/brandonhimpfen/awesome-google",
+      "description": "A curated list of high-quality resources, tools, APIs, and services related to Google products and technologies.",
+      "category": "Technology Giants",
+      "icon": "domain",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Google Cloud Platform",
+      "url": "https://github.com/brandonhimpfen/awesome-google-cloud-platform",
+      "description": "A curated list of tools, SDKs, libraries, and learning resources for Google Cloud Platform.",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome GovTech",
+      "url": "https://github.com/brandonhimpfen/awesome-govtech",
+      "description": "A curated list of platforms and resources for digital government and public sector innovation.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Green Cloud Computing",
+      "url": "https://github.com/brandonhimpfen/awesome-green-cloud-computing",
+      "description": "A curated list of awesome tools, resources, frameworks, and educational content focused on Green Cloud Computing.",
+      "category": "Sustainability and Green Tech",
+      "icon": "eco",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "carbon",
+        "climate",
+        "generative ai",
+        "green tech",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag",
+        "sustainability"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Haskell",
+      "url": "https://github.com/brandonhimpfen/awesome-haskell",
+      "description": "A curated list of awesome Haskell resources and tips.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome HBase",
+      "url": "https://github.com/brandonhimpfen/awesome-hbase",
+      "description": "A curated list of awesome libraries, tools, frameworks, and resources for Apache HBase, a scalable, distributed, and NoSQL database built on top of Hadoop, designed for handling large amounts of data.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Headless CMS",
+      "url": "https://github.com/brandonhimpfen/awesome-headless-cms",
+      "description": "A curated list of awesome Headless CMS platforms, tools, resources, and guides for decoupled content management.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Heroku",
+      "url": "https://github.com/brandonhimpfen/awesome-heroku",
+      "description": "A curated list of platforms, tools, add-ons, workflows, and learning resources for Heroku.",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Home Automation",
+      "url": "https://github.com/brandonhimpfen/awesome-home-automation",
+      "description": "Open-source smart home resources.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome HTML5",
+      "url": "https://github.com/brandonhimpfen/awesome-html5",
+      "description": "A curated list of awesome HTML5 resources, tools, frameworks, and learning materials.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Hugging Face",
+      "url": "https://github.com/brandonhimpfen/awesome-hugging-face",
+      "description": "A curated list of libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Human Rights",
+      "url": "https://github.com/brandonhimpfen/awesome-human-rights",
+      "description": "A list of high-quality resources, organizations, tools, and data to support human rights work.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Icons",
+      "url": "https://github.com/brandonhimpfen/awesome-icons",
+      "description": "A curated list of awesome icon packs, libraries, tools, and resources for web and app design.",
+      "category": "Design & UX",
+      "icon": "design_services",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Infrastructure as Code",
+      "url": "https://github.com/brandonhimpfen/awesome-iac",
+      "description": "A curated list of awesome tools, frameworks, practices, and resources for Infrastructure as Code (IaC).",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Instagram",
+      "url": "https://github.com/brandonhimpfen/awesome-instagram",
+      "description": "A curated list of high-quality tools, libraries, resources, and guides for working with Instagram.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Internet Freedom",
+      "url": "https://github.com/brandonhimpfen/awesome-internet-freedom",
+      "description": "A curated list of tools, platforms, organizations, and resources that support free, open, and secure access to the internet.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome iOS Development",
+      "url": "https://github.com/brandonhimpfen/awesome-ios-development",
+      "description": "A curated list of tools, frameworks, libraries, and resources for iOS development.",
+      "category": "Mobile Development",
+      "icon": "smartphone",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome IoT",
+      "url": "https://github.com/brandonhimpfen/awesome-iot",
+      "description": "Internet of Things platforms, tools, and resources.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome IPFS",
+      "url": "https://github.com/brandonhimpfen/awesome-ipfs",
+      "description": "A curated list of resources, tools, and libraries for the InterPlanetary File System (IPFS), a protocol for decentralized storage.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome JAMstack",
+      "url": "https://github.com/brandonhimpfen/awesome-jamstack",
+      "description": "A curated list of awesome tools, resources, services, and guides for building websites and apps with the JAMstack architecture.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Java",
+      "url": "https://github.com/brandonhimpfen/awesome-java",
+      "description": "A curated list of awesome frameworks, libraries, tools, and resources for Java programming.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Jekyll",
+      "url": "https://github.com/brandonhimpfen/awesome-jekyll",
+      "description": "A curated list of awesome tools, themes, plugins, and resources for Jekyll.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Journalism",
+      "url": "https://github.com/brandonhimpfen/awesome-journalism",
+      "description": "Curated tools, platforms, and resources for investigative, data, and digital journalism.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Julia",
+      "url": "https://github.com/brandonhimpfen/awesome-julia",
+      "description": "A curated list of awesome resources, libraries, tools, and tips for Julia programming.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Ko-fi",
+      "url": "https://github.com/brandonhimpfen/awesome-ko-fi",
+      "description": "A curated list of awesome tools, resources, guides, and integrations for using Ko-fi.",
+      "category": "Creator Support Platforms",
+      "icon": "favorite",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Kotlin",
+      "url": "https://github.com/brandonhimpfen/awesome-kotlin",
+      "description": "A curated list of awesome tools, libraries, frameworks, and resources for Kotlin.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Kubernetes",
+      "url": "https://github.com/brandonhimpfen/awesome-kubernetes",
+      "description": "Kubernetes tools and projects.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome LangChain",
+      "url": "https://github.com/brandonhimpfen/awesome-langchain",
+      "description": "Tools, resources, examples, and projects using LangChain for language-model-powered applications.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Laravel",
+      "url": "https://github.com/brandonhimpfen/awesome-laravel",
+      "description": "A curated list of packages and ecosystem resources for Laravel.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Last-Mile Delivery",
+      "url": "https://github.com/brandonhimpfen/awesome-last-mile-delivery",
+      "description": "Platforms and tools for final delivery optimization.",
+      "category": "Logistics & Supply Chain",
+      "icon": "local_shipping",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Learning Management Systems (LMS)",
+      "url": "https://github.com/brandonhimpfen/awesome-learning-management-systems",
+      "description": "Tools for managing courses, learners, and content delivery.",
+      "category": "Education Technology (EdTech)",
+      "icon": "school",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Lidar for Drones",
+      "url": "https://github.com/brandonhimpfen/awesome-lidar-drones",
+      "description": "Resources for Lidar-based UAV tech.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome LinkedIn",
+      "url": "https://github.com/brandonhimpfen/awesome-linkedin",
+      "description": "A curated list of high-quality tools, libraries, resources, and guides for working with LinkedIn.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome LLMOps",
+      "url": "https://github.com/brandonhimpfen/awesome-llmops",
+      "description": "Tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": true,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Featured"
+      ]
+    },
+    {
+      "title": "Awesome Logistics",
+      "url": "https://github.com/brandonhimpfen/awesome-logistics",
+      "description": "A curated list of platforms, tools, and technologies for logistics.",
+      "category": "Logistics & Supply Chain",
+      "icon": "local_shipping",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Lua",
+      "url": "https://github.com/brandonhimpfen/awesome-lua",
+      "description": "A curated list of Lua libraries, tools, and game development resources.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Machine Learning",
+      "url": "https://github.com/brandonhimpfen/awesome-machine-learning",
+      "description": "A comprehensive list of libraries, frameworks, and tools for machine learning.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Malware Analysis",
+      "url": "https://github.com/brandonhimpfen/awesome-malware-analysis",
+      "description": "Tools and labs for analyzing malicious software.",
+      "category": "Privacy, Security & Intelligence",
+      "icon": "shield",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Mathematics",
+      "url": "https://github.com/brandonhimpfen/awesome-mathematics/tree/main",
+      "description": "A curated list of resources for pure, applied, and computational mathematics.",
+      "category": "Mathematics",
+      "icon": "functions",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome MATLAB",
+      "url": "https://github.com/brandonhimpfen/awesome-matlab/tree/main",
+      "description": "A curated list of tools and resources for MATLAB.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Mechanical Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-mechanical-engineering",
+      "description": "A curated list of tools, platforms, resources, and educational content for mechanical engineering.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Medium",
+      "url": "https://github.com/brandonhimpfen/awesome-medium",
+      "description": "A curated list of awesome tools, tips, extensions, and resources for writers, readers, and publishers on Medium.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Microblogging",
+      "url": "https://github.com/brandonhimpfen/awesome-microblogging",
+      "description": "A curated list of tools, platforms, resources, and strategies for microblogging.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Microsoft",
+      "url": "https://github.com/brandonhimpfen/awesome-microsoft",
+      "description": "A curated list of high-quality resources, tools, products, APIs, and communities related to Microsoft technologies and services.",
+      "category": "Technology Giants",
+      "icon": "domain",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome MLOps",
+      "url": "https://github.com/brandonhimpfen/awesome-mlops",
+      "description": "A curated list of tools, frameworks, platforms, and resources for Machine Learning Operations.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Mobile App Architecture",
+      "url": "https://github.com/brandonhimpfen/awesome-mobile-app-architecture",
+      "description": "A curated list of architectural patterns, frameworks, and tools for designing scalable and maintainable mobile applications.",
+      "category": "Mobile Development",
+      "icon": "smartphone",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Mobile Development",
+      "url": "https://github.com/brandonhimpfen/awesome-mobile-development",
+      "description": "A curated list of tools, frameworks, platforms, and resources for mobile development across iOS, Android, and cross-platform ecosystems.",
+      "category": "Mobile Development",
+      "icon": "smartphone",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Mobile Security",
+      "url": "https://github.com/brandonhimpfen/awesome-mobile-security",
+      "description": "A curated list of tools, frameworks, and practices for securing mobile applications across iOS and Android.",
+      "category": "Mobile Development",
+      "icon": "smartphone",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome MongoDB",
+      "url": "https://github.com/brandonhimpfen/awesome-mongodb",
+      "description": "A curated list of awesome libraries, tools, frameworks, and resources for MongoDB, a NoSQL document database designed for modern application development.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Multimodal AI",
+      "url": "https://github.com/brandonhimpfen/awesome-multimodal-ai",
+      "description": "Models, tools, libraries, datasets, and resources for multimodal AI across text, image, audio, video, and sensor data.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome MySQL",
+      "url": "https://github.com/brandonhimpfen/awesome-mysql",
+      "description": "A curated list of awesome frameworks, libraries, tools, and resources for MySQL, a popular open-source relational database management system.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Natural Language Processing (NLP)",
+      "url": "https://github.com/brandonhimpfen/awesome-nlp",
+      "description": "Tools, libraries, and datasets for NLP and text analysis.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Neuroscience",
+      "url": "https://github.com/brandonhimpfen/awesome-neuroscience",
+      "description": "A curated list of tools, frameworks, datasets, educational resources, and community links for neuroscience.",
+      "category": "Science",
+      "icon": "science",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Next.js",
+      "url": "https://github.com/brandonhimpfen/awesome-next.js",
+      "description": "A curated list of tools, templates, and resources for Next.js.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome NFT Development",
+      "url": "https://github.com/brandonhimpfen/awesome-nft-development",
+      "description": "Tools, frameworks, standards, tutorials, and platforms for developing NFTs.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Node.js",
+      "url": "https://github.com/brandonhimpfen/awesome-nodejs",
+      "description": "A curated list of awesome Node.js packages and resources to enhance your development experience.",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome npm",
+      "url": "https://github.com/brandonhimpfen/awesome-npm",
+      "description": "A curated list of awesome npm resources, tips, and best practices.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome OCaml",
+      "url": "https://github.com/brandonhimpfen/awesome-ocaml",
+      "description": "A curated list of awesome frameworks, libraries, tools, and resources for the OCaml programming language.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Oceanography",
+      "url": "https://github.com/brandonhimpfen/awesome-oceanography",
+      "description": "A curated list of awesome resources, tools, data, and organizations for the study and exploration of the ocean.",
+      "category": "Science",
+      "icon": "science",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome On-Chain Analytics",
+      "url": "https://github.com/brandonhimpfen/awesome-on-chain-analytics",
+      "description": "A curated list of tools, platforms, datasets, and resources for on-chain analytics.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Online Learning",
+      "url": "https://github.com/brandonhimpfen/awesome-online-learning",
+      "description": "A curated list of platforms, tools, and resources for online learning, self-paced education, and digital course delivery.",
+      "category": "Education Technology (EdTech)",
+      "icon": "school",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Open Data",
+      "url": "https://github.com/brandonhimpfen/awesome-open-data",
+      "description": "Curated list of high-quality open data resources, tools, platforms, and projects across domains.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": true,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Featured",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Open Governance",
+      "url": "https://github.com/brandonhimpfen/awesome-open-governance",
+      "description": "Curated list of projects, platforms, and APIs for transparency, civic tech, and global governance",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Open Science",
+      "url": "https://github.com/brandonhimpfen/awesome-open-science",
+      "description": "A curated list of tools, platforms, resources, and communities that promote open science.",
+      "category": "Science",
+      "icon": "science",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Open Source Drone Firmware",
+      "url": "https://github.com/brandonhimpfen/awesome-open-source-drone-firmware",
+      "description": "Open-source drone firmware and flight controllers.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Open Source Math Tools",
+      "url": "https://github.com/brandonhimpfen/awesome-open-source-math-tools",
+      "description": "A curated list of open-source tools, libraries, and resources for mathematical computations.",
+      "category": "Mathematics",
+      "icon": "functions",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Open Source Space Data APIs",
+      "url": "https://github.com/brandonhimpfen/awesome-open-source-space-data-apis",
+      "description": "A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.",
+      "category": "Space Technology",
+      "icon": "rocket_launch",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome OpenAI",
+      "url": "https://github.com/brandonhimpfen/awesome-openai",
+      "description": "OpenAI tools, APIs, research, SDKs, and community resources.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome OSINT",
+      "url": "https://github.com/brandonhimpfen/awesome-osint",
+      "description": "Open-source intelligence tools and techniques.",
+      "category": "Privacy, Security & Intelligence",
+      "icon": "shield",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Patreon",
+      "url": "https://github.com/brandonhimpfen/awesome-patreon",
+      "description": "A curated list of awesome tools, resources, guides, and integrations for creators using Patreon.",
+      "category": "Creator Support Platforms",
+      "icon": "favorite",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Payments",
+      "url": "https://github.com/brandonhimpfen/awesome-payments",
+      "description": "A curated list of platforms, APIs, tools, standards, and learning resources for payments.",
+      "category": "Business & Economics",
+      "icon": "monitoring",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Peer-to-Peer (P2P) Networks",
+      "url": "https://github.com/brandonhimpfen/awesome-p2p-networks",
+      "description": "Resources and tools for building and understanding peer-to-peer networks.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Perl",
+      "url": "https://github.com/brandonhimpfen/awesome-perl",
+      "description": "A curated list of awesome frameworks, libraries, tools, and resources for the Perl programming language.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome PHP",
+      "url": "https://github.com/brandonhimpfen/awesome-php",
+      "description": "A curated list of PHP frameworks, libraries, and best practices.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Physics",
+      "url": "https://github.com/brandonhimpfen/awesome-physics",
+      "description": "A curated list of resources for physics research and education.",
+      "category": "Science",
+      "icon": "science",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Pinterest",
+      "url": "https://github.com/brandonhimpfen/awesome-pinterest",
+      "description": "A curated list of high-quality tools, resources, guides, and communities for Pinterest marketers, creators, and enthusiasts.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Podcasting Tools",
+      "url": "https://github.com/brandonhimpfen/awesome-podcasting-tools",
+      "description": "A curated list of tools, platforms, resources, and tips for podcasting.",
+      "category": "Media",
+      "icon": "perm_media",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Political Science",
+      "url": "https://github.com/brandonhimpfen/awesome-political-science",
+      "description": "Curated academic and open resources related to political systems, theories, and institutions.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome PostgreSQL",
+      "url": "https://github.com/brandonhimpfen/awesome-postgresql",
+      "description": "A curated list of awesome libraries, tools, frameworks, and resources for PostgreSQL, an advanced open-source relational database system known for its performance, extensibility, and SQL compliance.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Privacy",
+      "url": "https://github.com/brandonhimpfen/awesome-privacy",
+      "description": "Tools and knowledge to protect your digital privacy.",
+      "category": "Privacy, Security & Intelligence",
+      "icon": "shield",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Privacy Coins",
+      "url": "https://github.com/brandonhimpfen/awesome-privacy-coins",
+      "description": "Resources and tools focused on privacy-oriented cryptocurrencies (e.g., Monero, Zcash).",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Prompt Engineering",
+      "url": "https://github.com/brandonhimpfen/awesome-prompt-engineering",
+      "description": "Resources, tools, papers, and platforms for prompt engineering in LLMs and generative AI.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Public Policy",
+      "url": "https://github.com/brandonhimpfen/awesome-public-policy",
+      "description": "A curated list of institutions, datasets, and tools for public policy and governance.",
+      "category": "Politics & Society",
+      "icon": "account_balance",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome PureScript",
+      "url": "https://github.com/brandonhimpfen/awesome-purescript",
+      "description": "A curated list of awesome PureScript resources, libraries, tools, and tips.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Python",
+      "url": "https://github.com/brandonhimpfen/awesome-python",
+      "description": "A curated list of awesome frameworks, libraries, tools, and resources for Python programming.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome QA",
+      "url": "https://github.com/brandonhimpfen/awesome-qa",
+      "description": "A curated list of Quality Assurance (QA) tools and resources.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Quantum Computing",
+      "url": "https://github.com/brandonhimpfen/awesome-quantum-computing",
+      "description": "A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing.",
+      "category": "Quantum Computing",
+      "icon": "blur_on",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Quantum Programming Frameworks",
+      "url": "https://github.com/brandonhimpfen/awesome-quantum-programming-frameworks",
+      "description": "A curated list of frameworks, tools, libraries, and resources for quantum programming.",
+      "category": "Quantum Computing",
+      "icon": "blur_on",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome R",
+      "url": "https://github.com/brandonhimpfen/awesome-r",
+      "description": "A curated list of awesome R frameworks, libraries, tools, and resources for data analysis, statistics, and visualization.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome RAG (Retrieval-Augmented Generation)",
+      "url": "https://github.com/brandonhimpfen/awesome-rag",
+      "description": "Tools, frameworks, and resources for Retrieval-Augmented Generation systems.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": true,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Featured"
+      ]
+    },
+    {
+      "title": "Awesome Rails",
+      "url": "https://github.com/brandonhimpfen/awesome-rails/tree/main",
+      "description": "A curated list of tools and resources for Ruby on Rails.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Redis",
+      "url": "https://github.com/brandonhimpfen/awesome-redis",
+      "description": "A curated list of tools, libraries, and resources for Redis.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Reinforcement Learning",
+      "url": "https://github.com/brandonhimpfen/awesome-reinforcement-learning",
+      "description": "Tools, frameworks, and research papers for reinforcement learning.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Robotics",
+      "url": "https://github.com/brandonhimpfen/awesome-robotics",
+      "description": "A curated list of tools, frameworks, libraries, and resources for robotics.",
+      "category": "Engineering",
+      "icon": "precision_manufacturing",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Ruby",
+      "url": "https://github.com/brandonhimpfen/awesome-ruby",
+      "description": "A curated list of awesome Ruby resources, libraries, frameworks, and tips to help you level up your Ruby development skills.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Rust",
+      "url": "https://github.com/brandonhimpfen/awesome-rust",
+      "description": "A curated list of awesome resources and tips for Rust programming language enthusiasts.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome SaaS",
+      "url": "https://github.com/brandonhimpfen/awesome-saas",
+      "description": "A curated list of tools, frameworks, APIs, platforms, and learning resources for building and operating SaaS products.",
+      "category": "Business & Economics",
+      "icon": "monitoring",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Scala",
+      "url": "https://github.com/brandonhimpfen/awesome-scala",
+      "description": "A curated list of awesome resources and tips for Scala development.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Self Publishing",
+      "url": "https://github.com/brandonhimpfen/awesome-self-publishing",
+      "description": "A curated list of awesome tools, resources, communities, and platforms for self-publishing authors.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome SEO",
+      "url": "https://github.com/brandonhimpfen/awesome-seo",
+      "description": "A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.",
+      "category": "Digital Marketing",
+      "icon": "campaign",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Serverless",
+      "url": "https://github.com/brandonhimpfen/awesome-serverless",
+      "description": "A curated list of awesome services, frameworks, tools, and resources for building serverless applications.",
+      "category": "Cloud Platforms",
+      "icon": "cloud",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Shopify",
+      "url": "https://github.com/brandonhimpfen/awesome-shopify",
+      "description": "A curated list of high-quality resources, tools, apps, and guides for building, customizing, and managing Shopify stores.",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Smart Cities",
+      "url": "https://github.com/brandonhimpfen/awesome-smart-cities",
+      "description": "Platforms and systems for managing urban infrastructure and services.",
+      "category": "Smart Cities & Urban Tech",
+      "icon": "location_city",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Smart Contracts",
+      "url": "https://github.com/brandonhimpfen/awesome-smart-contracts",
+      "description": "Libraries, tools, and frameworks for developing and auditing smart contracts.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Social Media",
+      "url": "https://github.com/brandonhimpfen/awesome-social-media",
+      "description": "A curated list of resources and tips to level up your social media game!",
+      "category": "Digital Marketing",
+      "icon": "campaign",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Software Architecture",
+      "url": "https://github.com/brandonhimpfen/awesome-software-architecture",
+      "description": "A curated list of architectural patterns, frameworks, tools, and resources for designing scalable, maintainable, resilient, and understandable software systems.",
+      "category": "Software Development",
+      "icon": "integration_instructions",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome SQL",
+      "url": "https://github.com/brandonhimpfen/awesome-sql",
+      "description": "A curated list of SQL databases, tools, clients, and learning resources.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome SQLite",
+      "url": "https://github.com/brandonhimpfen/awesome-sqlite",
+      "description": "A curated list of tools and resources for SQLite.",
+      "category": "Databases",
+      "icon": "database",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "dataset",
+        "datasets",
+        "open data"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Stablecoins",
+      "url": "https://github.com/brandonhimpfen/awesome-stablecoins",
+      "description": "A curated list of stablecoins, infrastructure, tools, and resources for understanding and building with price-stable digital assets across fiat-backed, crypto-backed, and algorithmic models.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Static Website Services",
+      "url": "https://github.com/brandonhimpfen/awesome-static-website-services",
+      "description": "A curated list of awesome services, platforms, and tools for building, hosting, and managing static web",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Stripe",
+      "url": "https://github.com/brandonhimpfen/awesome-stripe",
+      "description": "A curated list of tools and integrations for building with Stripe.",
+      "category": "Platforms",
+      "icon": "apps",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Substack",
+      "url": "https://github.com/brandonhimpfen/awesome-substack",
+      "description": "A curated list of awesome tools, tips, guides, and resources for writers, publishers, and creators using Substack.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Supply Chain",
+      "url": "https://github.com/brandonhimpfen/awesome-supply-chain",
+      "description": "Platforms and tools for managing supply chains end-to-end.",
+      "category": "Logistics & Supply Chain",
+      "icon": "local_shipping",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Sustainability",
+      "url": "https://github.com/brandonhimpfen/awesome-sustainability",
+      "description": "A curated list of tools, projects, frameworks, communities, and resources for building a more sustainable world.",
+      "category": "Sustainability and Green Tech",
+      "icon": "eco",
+      "featured": true,
+      "aliases": [
+        "artificial intelligence",
+        "carbon",
+        "climate",
+        "generative ai",
+        "green tech",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag",
+        "sustainability"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Featured"
+      ]
+    },
+    {
+      "title": "Awesome Sustainable Agriculture",
+      "url": "https://github.com/brandonhimpfen/awesome-sustainable-agriculture",
+      "description": "Tools and systems for environmentally sustainable farming practices.",
+      "category": "Agriculture Tech (AgTech)",
+      "icon": "agriculture",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Swarm Drones",
+      "url": "https://github.com/brandonhimpfen/awesome-swarm-drones",
+      "description": "Resources for multi-UAV and coordinated drone systems.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Swift",
+      "url": "https://github.com/brandonhimpfen/awesome-swift",
+      "description": "A curated list of awesome Swift frameworks, libraries, and resources.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Synthetic Data",
+      "url": "https://github.com/brandonhimpfen/awesome-synthetic-data",
+      "description": "Tools, models, datasets, and resources for generating and applying synthetic data.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "artificial intelligence",
+        "dataset",
+        "datasets",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "open data",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Tailwind CSS",
+      "url": "https://github.com/brandonhimpfen/awesome-tailwindcss",
+      "description": "A curated list of awesome tools, components, templates, and resources for Tailwind CSS.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Terraform",
+      "url": "https://github.com/brandonhimpfen/awesome-terraform",
+      "description": "A curated list of awesome Terraform modules, tools, resources, and learning material.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Test Automation",
+      "url": "https://github.com/brandonhimpfen/awesome-test-automation",
+      "description": "A curated list for automating software testing.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Testing",
+      "url": "https://github.com/brandonhimpfen/awesome-testing",
+      "description": "A curated list of testing tools and frameworks.",
+      "category": "DevOps and CI/CD",
+      "icon": "settings_suggest",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome Threat Intelligence",
+      "url": "https://github.com/brandonhimpfen/awesome-threat-intelligence",
+      "description": "Threat detection and analysis resources.",
+      "category": "Privacy, Security & Intelligence",
+      "icon": "shield",
+      "featured": false,
+      "aliases": [
+        "cybersecurity",
+        "osint",
+        "privacy",
+        "threat intelligence"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Tokenomics",
+      "url": "https://github.com/brandonhimpfen/awesome-tokenomics",
+      "description": "A curated list of tools, frameworks, models, and resources for tokenomics.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Travel Blogging",
+      "url": "https://github.com/brandonhimpfen/awesome-travel-blogging",
+      "description": "A curated list of awesome resources, tools, platforms, and tips for travel bloggers.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome TypeScript",
+      "url": "https://github.com/brandonhimpfen/awesome-typescript",
+      "description": "A curated list of awesome tools, libraries, frameworks, and resources for TypeScript.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome UAV & Drone AI",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-drone-ai",
+      "description": "AI, ML, computer vision, and autonomy resources for UAVs, drones, quadcopters, and aerial robotics, including navigation, SLAM, flight control, planning, and perception.",
+      "category": "Artificial Intelligence (AI)",
+      "icon": "psychology",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UAV Autonomy",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-autonomy",
+      "description": "A curated list of frameworks, algorithms, datasets, and autonomy stacks for UAV systems.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "autonomy",
+        "dataset",
+        "datasets",
+        "drone",
+        "drones",
+        "flight",
+        "open data",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UAV Collision Avoidance Systems",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-collision-avoidance-systems",
+      "description": "Libraries and datasets for UAV safety.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "analytics",
+        "autonomy",
+        "dataset",
+        "datasets",
+        "drone",
+        "drones",
+        "flight",
+        "open data",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UAV Flight Test Planning",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-flight-test-planning",
+      "description": "Resources for planning UAV test flights.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UAV in Agriculture",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-in-agriculture",
+      "description": "Drone-based systems for monitoring and mapping farmland.",
+      "category": "Agriculture Tech (AgTech)",
+      "icon": "agriculture",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UAV Root Cause Analysis",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-root-cause-analysis",
+      "description": "Case studies and methodologies for UAV failure analysis.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UAV Simulation",
+      "url": "https://github.com/brandonhimpfen/awesome-uav-simulation",
+      "description": "A curated list of simulators, frameworks, tools, and resources for UAV simulation.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome UI Components",
+      "url": "https://github.com/brandonhimpfen/awesome-ui-components",
+      "description": "A curated list of awesome UI component libraries, frameworks, kits, and resources for building beautiful, reusable user interfaces.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome UX",
+      "url": "https://github.com/brandonhimpfen/awesome-ux",
+      "description": "A curated list of awesome resources, tools, and guides for improving User Experience (UX) design.",
+      "category": "Design & UX",
+      "icon": "design_services",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Visual Studio Code",
+      "url": "https://github.com/brandonhimpfen/awesome-vscode",
+      "description": "A curated list of awesome Visual Studio Code extensions, resources, themes, and tools.",
+      "category": "Code Editors",
+      "icon": "code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome VTOL Drones",
+      "url": "https://github.com/brandonhimpfen/awesome-vtol-drones",
+      "description": "A curated list of resources, research, tools, and companies focused on Vertical Take-Off and Landing (VTOL) drones \u2014 combining multirotor agility with fixed-wing efficiency for advanced UAV applications.",
+      "category": "Emerging Tech: Drones & IoT",
+      "icon": "flight_takeoff",
+      "featured": false,
+      "aliases": [
+        "autonomy",
+        "drone",
+        "drones",
+        "flight",
+        "uav"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Warehouse Management",
+      "url": "https://github.com/brandonhimpfen/awesome-warehouse-management",
+      "description": "Tools for inventory, storage, and fulfillment operations.",
+      "category": "Logistics & Supply Chain",
+      "icon": "local_shipping",
+      "featured": false,
+      "aliases": [
+        "artificial intelligence",
+        "generative ai",
+        "llm",
+        "machine learning",
+        "ml",
+        "rag"
+      ],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Search aliases"
+      ]
+    },
+    {
+      "title": "Awesome Wearables & Health Monitoring",
+      "url": "https://github.com/brandonhimpfen/awesome-wearables-health-monitoring",
+      "description": "Devices and systems for tracking health metrics.",
+      "category": "Health & Digital Health",
+      "icon": "health_and_safety",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Web Accessibility",
+      "url": "https://github.com/brandonhimpfen/awesome-web-accessibility",
+      "description": "A curated list of awesome resources, tools, and tips to improve web accessibility.",
+      "category": "Web Optimization",
+      "icon": "speed",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Web Design",
+      "url": "https://github.com/brandonhimpfen/awesome-web-design",
+      "description": "A curated list of awesome resources, tools, books, and inspiration for web designers.",
+      "category": "Design & UX",
+      "icon": "design_services",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Web Development",
+      "url": "https://github.com/brandonhimpfen/awesome-web-development",
+      "description": "A curated list of frameworks, tools, and learning resources for modern web development.",
+      "category": "Web Optimization",
+      "icon": "speed",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Web Performance",
+      "url": "https://github.com/brandonhimpfen/awesome-web-performance",
+      "description": "A curated list of awesome resources, tools, and tips to improve web performance.",
+      "category": "Web Optimization",
+      "icon": "speed",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Web3",
+      "url": "https://github.com/brandonhimpfen/awesome-web3",
+      "description": "A curated list of platforms, protocols, tools, and learning resources for Web3 and the decentralized web.",
+      "category": "Cryptocurrency",
+      "icon": "currency_bitcoin",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Web3 Development",
+      "url": "https://github.com/brandonhimpfen/awesome-web3-development",
+      "description": "Tools, frameworks, and resources for building decentralized applications (dApps) using Web3 technologies.",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome WordPress",
+      "url": "https://github.com/brandonhimpfen/awesome-wordpress",
+      "description": "A curated list of resources for WordPress.",
+      "category": "Blogging",
+      "icon": "edit_note",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome WordPress Headless",
+      "url": "https://github.com/brandonhimpfen/awesome-wordpress-headless/tree/main",
+      "description": "A curated list of resources, tools, frameworks, and guides for building headless WordPress websites.",
+      "category": "Frameworks",
+      "icon": "deployed_code",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "Awesome X",
+      "url": "https://github.com/brandonhimpfen/awesome-x",
+      "description": "A curated list of high-quality tools, libraries, resources, and guides for working with X (formerly Twitter).",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome YouTube",
+      "url": "https://github.com/brandonhimpfen/awesome-youtube",
+      "description": "A curated list of high-quality tools, resources, guides, and communities for YouTube creators, marketers, and enthusiasts.",
+      "category": "Social & Creator Platforms",
+      "icon": "groups",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Zero-Knowledge Proofs",
+      "url": "https://github.com/brandonhimpfen/awesome-zero-knowledge-proofs",
+      "description": "A curated list of awesome libraries, tools, frameworks, and resources for Zero-Knowledge Proofs (ZKPs).",
+      "category": "Decentralized Systems",
+      "icon": "hub",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo"
+      ]
+    },
+    {
+      "title": "Awesome Zig",
+      "url": "https://github.com/brandonhimpfen/awesome-zig",
+      "description": "A curated list of tools and learning resources for the Zig programming language.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    },
+    {
+      "title": "JavaScript",
+      "url": "https://github.com/brandonhimpfen/awesome-javascript",
+      "description": "A curated list of awesome JavaScript libraries, frameworks, tools, and resources.",
+      "category": "Programming Languages",
+      "icon": "terminal",
+      "featured": false,
+      "aliases": [],
+      "signals": [
+        "Curated",
+        "Linked repo",
+        "Core area"
+      ]
+    }
+  ]
+}

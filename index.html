@@ -1,0 +1,81 @@
+---
+layout: default
+title: Home
+custom_js: /assets/app.js
+---
+
+<section class="hero">
+    <div class="hero-inner">
+      <div>
+        <div class="kicker"><span class="material-symbols-rounded">auto_awesome</span> Curated knowledge directory</div>
+        <h1>Find curated lists worth keeping.</h1>
+        <p>A modern directory of linked Awesome Lists across AI, software, open data, security, sustainability, drones, cloud platforms, programming languages, and research-oriented technical domains.</p>
+        <div class="hero-actions">
+          <a class="repo-button" href="#directory"><span class="material-symbols-rounded">travel_explore</span> Browse lists</a>
+          <a class="secondary-button" href="#categories"><span class="material-symbols-rounded">category</span> Explore categories</a>
+        </div>
+      </div>
+      <aside class="hero-panel" aria-label="Directory statistics">
+        <div class="metric"><span>Linked lists</span><strong id="totalLists">0</strong></div>
+        <div class="metric"><span>Categories</span><strong id="totalCategories">0</strong></div>
+        <div class="metric"><span>Primary repo</span><strong><a href="https://github.com/brandonhimpfen/awesome-lists" target="_blank" rel="noopener">GitHub</a></strong></div>
+      </aside>
+    </div>
+  </section>
+
+  <main class="main">
+    <section class="controls-card" id="directory" aria-label="Directory controls">
+      <div class="field">
+        <span class="material-symbols-rounded">search</span>
+        <input id="search" type="search" placeholder="Search lists, topics, signals, and aliases">
+      </div>
+      <div class="field">
+        <select id="category" aria-label="Filter by category"></select>
+      </div>
+      <div class="field">
+        <select id="perPage" aria-label="Items per page">
+          <option value="12">12 per page</option>
+          <option value="24" selected>24 per page</option>
+          <option value="48">48 per page</option>
+          <option value="96">96 per page</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="featured-band" id="featured">
+      <div class="section-head">
+        <div>
+          <span class="section-label"><span class="material-symbols-rounded">workspace_premium</span> Featured</span>
+          <h2>High-signal starting points</h2>
+        </div>
+        <p>Featured lists provide quick entry into core areas without turning the page into a long stack of category panels.</p>
+      </div>
+      <div class="featured-list" id="featuredList"></div>
+    </section>
+
+    <section class="category-compact" id="categories">
+      <div class="section-head">
+        <div>
+          <span class="section-label"><span class="material-symbols-rounded">category</span> Categories</span>
+          <h2>Explore by knowledge area</h2>
+        </div>
+        <p>Use the compact category bar to filter the directory without adding excessive vertical scrolling.</p>
+      </div>
+      <div class="category-scroll" id="categoryChips"></div>
+    </section>
+
+    <div class="results-meta">
+      <div id="resultCount">Loading lists…</div>
+      <div id="pageInfo"></div>
+    </div>
+
+    <section class="list-grid" id="listGrid" aria-live="polite"></section>
+    <nav class="pagination" id="pagination" aria-label="Pagination"></nav>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>© Awesome Lists</span>
+      <span>Maintained through the primary Awesome Lists repository.</span>
+    </div>
+  

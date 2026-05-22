@@ -1,0 +1,15 @@
+title: Awesome Lists
+description: Curated Awesome Lists across AI, programming, security, sustainability, and emerging technologies.
+baseurl: ""
+url: "https://www.awesomelists.io"
+
+markdown: kramdown
+permalink: /blog/:title/
+
+collections:
+  pages:
+    output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
