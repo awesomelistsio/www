@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="icon" href="logo.svg" type="image/svg+xml">
+  <link rel="icon" href="/logo.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap">
@@ -19,7 +19,7 @@
   <header class="topbar">
     <div class="topbar-inner">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Awesome Lists home">
-        <img src="logo.svg" alt="">
+        <img src="/logo.svg" alt="">
         <span>Awesome Lists</span>
       </a>
       <nav class="nav" aria-label="Primary navigation">
@@ -35,11 +35,12 @@
 <main class="mdl-layout__content">
 {{ content }}
 
-<footer class="footer">
-<div class="footer-inner">
-<span>© Awesome Lists</span>
-<span>https://github.com/brandonhimpfen/awesome-lists</span>
-</div>
+
+ <footer class="footer">
+    <div class="footer-inner">
+      <span>© Awesome Lists</span>
+      <span>Maintained by <a href="https://www.brandonhimpfen.com/" title="Brandon Himpfen" target="_blank">Brandon Himpfen</a>.</span>
+    </div>
 </footer>
 
 </main>

@@ -508,6 +508,12 @@ a:hover { text-decoration: underline; }
   flex-wrap: wrap;
 }
 
+.page-shell{
+  max-width:1280px;
+  margin:0 auto;
+  padding:0 24px 80px;
+}
+
 .page-btn {
   min-width: 42px;
   height: 42px;

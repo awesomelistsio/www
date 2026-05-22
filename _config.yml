@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://awesomelists.io"
 
 markdown: kramdown
-permalink: /blog/:title/
+permalink: /:title/
 
 collections:
   pages:
